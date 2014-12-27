@@ -1,7 +1,7 @@
 HTML Best Practices
 ===================
 
-## Note: feature/reason
+## Note for feature/reason
 
 I would like to know **WHY** [HTML Best Practices](https://github.com/hail2u/html-best-practices) suggest us write code like below list so I forked it and I add section describe why it is good. I'm not all knowing so if you find anything you think I got wrong, needs more details or have any suggestion or questions to make this guide better, write a note at [issue](https://github.com/sota0805/html-best-practices/issues). You can also find me on [Twitter](https://twitter.com/sota0805) or [Google+](https://plus.google.com/+SotaYamashita/)
 
